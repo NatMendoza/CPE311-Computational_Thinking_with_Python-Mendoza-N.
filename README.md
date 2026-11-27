@@ -1,14 +1,14 @@
 <div align="center">
   
-<img width="447" height="447" alt="fsad" src="https://github.com/user-attachments/assets/a9b556a2-b402-42ee-a0be-3509c550f20d" />
+<img width="350" height="220" alt="fsad" src="https://github.com/user-attachments/assets/a9b556a2-b402-42ee-a0be-3509c550f20d" />
 
-# 📡 CPE 311 – Computational Thinking with Python by Mendoza, Nathaniel B. ⚙️
+# 📡 CPE 311 – Computational Thinking with Python ⚙️
 
 ### *Course Portfolio • Laboratory Activities • Projects*
 
 <img src="https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20031-blue?style=for-the-badge"/>
 
-<img width="3840" height="3840" alt="pythong" src="https://github.com/user-attachments/assets/72aa4ded-6843-4ae8-a26f-27ade57d4cd1" />
+<img width="300" height="170" alt="pythong" src="https://github.com/user-attachments/assets/72aa4ded-6843-4ae8-a26f-27ade57d4cd1" />
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
 
